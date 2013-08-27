@@ -1,0 +1,13 @@
+C:\Users\1051395\Desktop\Term 2\VB2\Feb10-CrapsFinal\StartCraps\bin\Release\StartCraps.exe
+C:\Users\1051395\Desktop\Term 2\VB2\Feb10-CrapsFinal\StartCraps\bin\Release\StartCraps.pdb
+C:\Users\1051395\Desktop\Term 2\VB2\Feb10-CrapsFinal\StartCraps\bin\Release\StartCraps.xml
+C:\Users\1051395\Desktop\Term 2\VB2\Feb10-CrapsFinal\StartCraps\obj\Release\ResolveAssemblyReference.cache
+C:\Users\1051395\Desktop\Term 2\VB2\Feb10-CrapsFinal\StartCraps\obj\Release\StartCraps.FrmCrapsGame.resources
+C:\Users\1051395\Desktop\Term 2\VB2\Feb10-CrapsFinal\StartCraps\obj\Release\StartCraps.Resources.resources
+C:\Users\1051395\Desktop\Term 2\VB2\Feb10-CrapsFinal\StartCraps\obj\Release\StartCraps.vbproj.GenerateResource.Cache
+C:\Users\1051395\Desktop\Term 2\VB2\Feb10-CrapsFinal\StartCraps\obj\Release\StartCraps.exe
+C:\Users\1051395\Desktop\Term 2\VB2\Feb10-CrapsFinal\StartCraps\obj\Release\StartCraps.xml
+C:\Users\1051395\Desktop\Term 2\VB2\Feb10-CrapsFinal\StartCraps\obj\Release\StartCraps.pdb
+C:\Users\1051395\Desktop\Millions of Folders\Term 2\VB2\Feb10-CrapsFinal\StartCraps\obj\Release\StartCraps.exe
+C:\Users\1051395\Desktop\Millions of Folders\Term 2\VB2\Feb10-CrapsFinal\StartCraps\obj\Release\StartCraps.xml
+C:\Users\1051395\Desktop\Millions of Folders\Term 2\VB2\Feb10-CrapsFinal\StartCraps\obj\Release\StartCraps.pdb
